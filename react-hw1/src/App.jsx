@@ -58,7 +58,7 @@ function App() {
       <main className="main">
         <section className="home ">
           <img
-            src="../public/img/img-bg.svg"
+            src="/img/img-bg.svg"
             className="home-bg"
             alt="home background"
           />
@@ -75,36 +75,12 @@ function App() {
               </a>
             </div>
             <div className="home-images">
-              <img
-                src="../public/img/img-1.svg"
-                alt=""
-                className="home-img-1"
-              />
-              <img
-                src="../public/img/img-2.svg"
-                alt=""
-                className="home-img-2"
-              />
-              <img
-                src="../public/img/img-3.svg"
-                alt=""
-                className="home-img-3"
-              />
-              <img
-                src="../public/img/img-4.svg"
-                alt=""
-                className="home-img-4"
-              />
-              <img
-                src="../public/img/img-5.svg"
-                alt=""
-                className="home-img-5"
-              />
-              <img
-                src="../public/img/img-6.svg"
-                alt=""
-                className="home-img-6"
-              />
+              <img src="/img/img-1.svg" alt="" className="home-img-1" />
+              <img src="/img/img-2.svg" alt="" className="home-img-2" />
+              <img src="/img/img-3.svg" alt="" className="home-img-3" />
+              <img src="/img/img-4.svg" alt="" className="home-img-4" />
+              <img src="/img/img-5.svg" alt="" className="home-img-5" />
+              <img src="/img/img-6.svg" alt="" className="home-img-6" />
             </div>
           </div>
         </section>
